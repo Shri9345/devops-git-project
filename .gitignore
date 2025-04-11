@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Terraform
+*.tfstate
+.terraform/
+
+# OS Files
+.DS_Store
+
+# Node
+node_modules/
+
